@@ -2,11 +2,10 @@
 
 ## Overview
 
-This project is a responsive landing page built using HTML and CSS. The goal of this project is to create a visually appealing and user-friendly landing page that effectively communicates the main message and call to action.
+This project is a responsive landing page built using HTML and CSS. The goal of this project is to create a visually appealing and user-friendly landing page that effectively communicates the main message and call to action. This project was undertaken as part of The Odin Project.
 
 ## Features
 
-- **Responsive Design**: The landing page is fully responsive and works on various screen sizes, including desktops, tablets, and mobile devices.
 - **Modern Layout**: Uses a clean and modern design with a focus on usability and aesthetic appeal.
 - **Custom CSS**: Styled using custom CSS to enhance the visual appeal and user experience.
 - **Semantic HTML**: Utilizes semantic HTML elements to improve accessibility and SEO.
